@@ -1,0 +1,62 @@
+
+
+.hide-link{
+    display: none;
+  }
+  
+.nav-link{
+ 
+   /* border: 1px solid black;*/
+    margin: auto;
+    width: 300px;
+   
+   }
+   
+   .login-btn {
+    width:250px;
+    height:100px;
+    line-height: 80px;
+    font-size: 25px;
+    color: white;
+    letter-spacing: 2px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px black;
+   
+    font-family: cursive;
+   }
+   #title-main{
+    color: black;
+    font-weight: 1000;
+    letter-spacing: 3px;
+    font-family: cursive;
+    margin: auto;
+    width: 450px;
+    padding-top: 60px;
+   }
+   
+   .vendor-btn{
+    width:250px;
+    height:100px;
+    line-height: 80px;
+    font-size: 25px;
+    color: white;
+    letter-spacing: 2px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px black;
+    display: inline-block;
+    font-family: cursive;
+   }
+   
+   .flex-container{
+    height: 100vh;
+ 
+
+   
+   }
+
+   .link-container{
+    margin-top: 150px;
+   
+    display: flex;
+    justify-content: space-evenly;
+   }
